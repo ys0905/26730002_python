@@ -1,4 +1,4 @@
-A=input("A= ")
+A=input()
 
 for i in A:
     print(i,end=" ")
