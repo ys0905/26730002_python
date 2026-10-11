@@ -1,3 +1,3 @@
-a=input("a= ")
+a=input()
 
 print(a[::-1])
