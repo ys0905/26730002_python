@@ -1,3 +1,3 @@
-print("ITEM PRICE")
-print("shoe    75")
-print(" bag   230")
+print(" ITEM PRICE")
+print(" shoe    75")
+print("  bag   230")
