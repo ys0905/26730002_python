@@ -1,2 +1,2 @@
-a=int(input())
-print(round(a/3,2))
+a = int(input())
+print(f"{a/3:.2f}")
